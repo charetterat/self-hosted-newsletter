@@ -1,4 +1,4 @@
-# Awesome Self-Hosted Newsletter
+# Awesome Self-Hosted Newsletter (updated 2026-10-17)
 
 > Curated, link-verified tools for running your own newsletter, mailing list and sending stack.
 
