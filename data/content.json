@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-17",
   "meta": {
     "title": "Awesome Self-Hosted Newsletter",
     "tagline": "Curated, link-verified tools for running your own newsletter, mailing list and sending stack.",
@@ -17,61 +17,101 @@
           "name": "Ghost",
           "url": "https://github.com/TryGhost/Ghost",
           "what": "Independent publishing platform with memberships, subscriptions and built-in newsletters.",
-          "tags": ["publishing", "memberships", "node"]
+          "tags": [
+            "publishing",
+            "memberships",
+            "node"
+          ]
         },
         {
           "name": "listmonk",
           "url": "https://github.com/knadh/listmonk",
           "what": "High-performance self-hosted newsletter and mailing list manager with a modern dashboard.",
-          "tags": ["newsletter", "mailing-list", "go"]
+          "tags": [
+            "newsletter",
+            "mailing-list",
+            "go"
+          ]
         },
         {
           "name": "BillionMail",
           "url": "https://github.com/Billionmail/BillionMail",
           "what": "Open-source mail server, newsletter and email marketing stack, fully self-hosted.",
-          "tags": ["newsletter", "mail-server", "email-marketing"]
+          "tags": [
+            "newsletter",
+            "mail-server",
+            "email-marketing"
+          ]
         },
         {
           "name": "mailtrain",
           "url": "https://github.com/Mailtrain-org/mailtrain",
           "what": "Self hosted newsletter app.",
-          "tags": ["newsletter", "node", "self-hosted"]
+          "tags": [
+            "newsletter",
+            "node",
+            "self-hosted"
+          ]
         },
         {
           "name": "notifuse",
           "url": "https://github.com/Notifuse/notifuse",
           "what": "Open-source, self-hosted newsletter, email marketing and transactional email platform.",
-          "tags": ["newsletter", "mjml", "transactional"]
+          "tags": [
+            "newsletter",
+            "mjml",
+            "transactional"
+          ]
         },
         {
           "name": "keila",
           "url": "https://github.com/pentacent/keila",
           "what": "Open source newsletter tool built in Elixir.",
-          "tags": ["newsletter", "elixir", "self-hosted"]
+          "tags": [
+            "newsletter",
+            "elixir",
+            "self-hosted"
+          ]
         },
         {
           "name": "sendportal",
           "url": "https://github.com/mettle/sendportal",
           "what": "Open-source self-hosted email marketing for managing your own newsletters at lower cost.",
-          "tags": ["email-marketing", "laravel", "lists"]
+          "tags": [
+            "email-marketing",
+            "laravel",
+            "lists"
+          ]
         },
         {
           "name": "phplist3",
           "url": "https://github.com/phpList/phplist3",
           "what": "Open source email marketing manager for creating, sending and analysing campaigns.",
-          "tags": ["email-marketing", "php", "lists"]
+          "tags": [
+            "email-marketing",
+            "php",
+            "lists"
+          ]
         },
         {
           "name": "colossus",
           "url": "https://github.com/vitorfs/colossus",
           "what": "Self-hosted email marketing solution written in Django.",
-          "tags": ["email-marketing", "django", "self-hosted"]
+          "tags": [
+            "email-marketing",
+            "django",
+            "self-hosted"
+          ]
         },
         {
           "name": "Mailcoach",
           "url": "https://github.com/spatie/Mailcoach",
           "what": "A self-hosted email list manager in a modern jacket.",
-          "tags": ["email-marketing", "laravel", "lists"]
+          "tags": [
+            "email-marketing",
+            "laravel",
+            "lists"
+          ]
         }
       ]
     },
@@ -84,49 +124,81 @@
           "name": "docker-mailserver",
           "url": "https://github.com/docker-mailserver/docker-mailserver",
           "what": "Production-ready fullstack mail server (SMTP, IMAP, LDAP, antispam, antivirus) in a container.",
-          "tags": ["mail-server", "smtp", "imap"]
+          "tags": [
+            "mail-server",
+            "smtp",
+            "imap"
+          ]
         },
         {
           "name": "postal",
           "url": "https://github.com/postalserver/postal",
           "what": "A fully featured open source mail delivery platform for incoming and outgoing e-mail.",
-          "tags": ["mail-server", "smtp", "delivery"]
+          "tags": [
+            "mail-server",
+            "smtp",
+            "delivery"
+          ]
         },
         {
           "name": "stalwart",
           "url": "https://github.com/stalwartlabs/stalwart",
           "what": "All-in-one mail and collaboration server fluent in IMAP, JMAP, SMTP, CalDAV and CardDAV.",
-          "tags": ["mail-server", "jmap", "smtp"]
+          "tags": [
+            "mail-server",
+            "jmap",
+            "smtp"
+          ]
         },
         {
           "name": "mailcow-dockerized",
           "url": "https://github.com/mailcow/mailcow-dockerized",
           "what": "A Docker-based mail server suite bundling the full mail stack.",
-          "tags": ["mail-server", "docker", "smtp"]
+          "tags": [
+            "mail-server",
+            "docker",
+            "smtp"
+          ]
         },
         {
           "name": "Mailu",
           "url": "https://github.com/Mailu/Mailu",
           "what": "Insular email distribution — a mail server shipped as Docker images.",
-          "tags": ["mail-server", "docker", "smtp"]
+          "tags": [
+            "mail-server",
+            "docker",
+            "smtp"
+          ]
         },
         {
           "name": "mox",
           "url": "https://github.com/mjl-/mox",
           "what": "Modern full-featured open source secure mail server for low-maintenance self-hosted email.",
-          "tags": ["mail-server", "smtp", "go"]
+          "tags": [
+            "mail-server",
+            "smtp",
+            "go"
+          ]
         },
         {
           "name": "cuttlefish",
           "url": "https://github.com/mlandauer/cuttlefish",
           "what": "Transactional email server with a web interface.",
-          "tags": ["transactional-email", "smtp", "web-ui"]
+          "tags": [
+            "transactional-email",
+            "smtp",
+            "web-ui"
+          ]
         },
         {
           "name": "relay",
           "url": "https://github.com/hyvor/relay",
           "what": "Open-source email API for developers, a cloud and self-hosted alternative to SES, Mailgun and SendGrid.",
-          "tags": ["email-api", "transactional", "ses"]
+          "tags": [
+            "email-api",
+            "transactional",
+            "ses"
+          ]
         }
       ]
     },
@@ -139,37 +211,61 @@
           "name": "RSSHub",
           "url": "https://github.com/DIYgod/RSSHub",
           "what": "Everything is RSSible — generates RSS feeds from many sources that have none.",
-          "tags": ["rss", "feeds", "self-hosted"]
+          "tags": [
+            "rss",
+            "feeds",
+            "self-hosted"
+          ]
         },
         {
           "name": "MJML",
           "url": "https://github.com/mjmlio/mjml",
           "what": "A markup framework that makes writing responsive email less painful.",
-          "tags": ["email", "markup", "responsive"]
+          "tags": [
+            "email",
+            "markup",
+            "responsive"
+          ]
         },
         {
           "name": "rss2email",
           "url": "https://github.com/rss2email/rss2email",
           "what": "Forward RSS feeds to your email address, community maintained.",
-          "tags": ["rss", "email", "cli"]
+          "tags": [
+            "rss",
+            "email",
+            "cli"
+          ]
         },
         {
           "name": "rss2newsletter",
           "url": "https://github.com/ElliotKillick/rss2newsletter",
           "what": "Convert an RSS or Atom feed into email newsletters.",
-          "tags": ["rss", "newsletter", "automation"]
+          "tags": [
+            "rss",
+            "newsletter",
+            "automation"
+          ]
         },
         {
           "name": "Elements",
           "url": "https://github.com/unlayer/elements",
           "what": "React components for transactional emails, landing pages, invoices and PDFs.",
-          "tags": ["email", "react", "templates"]
+          "tags": [
+            "email",
+            "react",
+            "templates"
+          ]
         },
         {
           "name": "listmonk-rss",
           "url": "https://github.com/ping13/listmonk-rss",
           "what": "Provides an RSS integration for listmonk, the self-hosted newsletter and mailing list manager.",
-          "tags": ["rss", "listmonk", "integration"]
+          "tags": [
+            "rss",
+            "listmonk",
+            "integration"
+          ]
         }
       ]
     },
@@ -182,19 +278,31 @@
           "name": "formbricks",
           "url": "https://github.com/formbricks/formbricks",
           "what": "Open source, self-hostable surveys and forms for collecting and qualifying signups.",
-          "tags": ["forms", "surveys", "self-hosted"]
+          "tags": [
+            "forms",
+            "surveys",
+            "self-hosted"
+          ]
         },
         {
           "name": "lovecroft",
           "url": "https://github.com/thesephist/lovecroft",
           "what": "Minimal mailing list manager for static sites, with a simple JSON API.",
-          "tags": ["mailing-list", "static-sites", "api"]
+          "tags": [
+            "mailing-list",
+            "static-sites",
+            "api"
+          ]
         },
         {
           "name": "formzero",
           "url": "https://github.com/BohdanPetryshyn/formzero",
           "what": "Form backend with zero paid features, deployable to a free Cloudflare account.",
-          "tags": ["forms", "backend", "cloudflare"]
+          "tags": [
+            "forms",
+            "backend",
+            "cloudflare"
+          ]
         }
       ]
     },
@@ -207,33 +315,85 @@
           "name": "mautic",
           "url": "https://github.com/mautic/mautic",
           "what": "Open source marketing automation software with campaigns, segments and forms.",
-          "tags": ["marketing-automation", "crm", "php"]
+          "tags": [
+            "marketing-automation",
+            "crm",
+            "php"
+          ]
         },
         {
           "name": "dittofeed",
           "url": "https://github.com/dittofeed/dittofeed",
           "what": "Open-source customer engagement: automate transactional and marketing messages across email, SMS and push.",
-          "tags": ["marketing-automation", "email", "journeys"]
+          "tags": [
+            "marketing-automation",
+            "email",
+            "journeys"
+          ]
         },
         {
           "name": "django-crm",
           "url": "https://github.com/DjangoCRM/django-crm",
           "what": "CRM and task management software with email marketing built in.",
-          "tags": ["crm", "email-marketing", "django"]
+          "tags": [
+            "crm",
+            "email-marketing",
+            "django"
+          ]
         }
       ]
     }
   ],
   "verification_sources": [
-    {"name": "listmonk", "url": "https://github.com/knadh/listmonk", "expected_token": "knadh/listmonk"},
-    {"name": "Ghost", "url": "https://github.com/TryGhost/Ghost", "expected_token": "TryGhost/Ghost"},
-    {"name": "mailtrain", "url": "https://github.com/Mailtrain-org/mailtrain", "expected_token": "Mailtrain-org/mailtrain"},
-    {"name": "notifuse", "url": "https://github.com/Notifuse/notifuse", "expected_token": "Notifuse/notifuse"},
-    {"name": "postal", "url": "https://github.com/postalserver/postal", "expected_token": "postalserver/postal"},
-    {"name": "stalwart", "url": "https://github.com/stalwartlabs/stalwart", "expected_token": "stalwartlabs/stalwart"},
-    {"name": "docker-mailserver", "url": "https://github.com/docker-mailserver/docker-mailserver", "expected_token": "docker-mailserver/docker-mailserver"},
-    {"name": "RSSHub", "url": "https://github.com/DIYgod/RSSHub", "expected_token": "DIYgod/RSSHub"},
-    {"name": "MJML", "url": "https://github.com/mjmlio/mjml", "expected_token": "mjmlio/mjml"},
-    {"name": "mautic", "url": "https://github.com/mautic/mautic", "expected_token": "mautic/mautic"}
+    {
+      "name": "listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "expected_token": "knadh/listmonk"
+    },
+    {
+      "name": "Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "expected_token": "TryGhost/Ghost"
+    },
+    {
+      "name": "mailtrain",
+      "url": "https://github.com/Mailtrain-org/mailtrain",
+      "expected_token": "Mailtrain-org/mailtrain"
+    },
+    {
+      "name": "notifuse",
+      "url": "https://github.com/Notifuse/notifuse",
+      "expected_token": "Notifuse/notifuse"
+    },
+    {
+      "name": "postal",
+      "url": "https://github.com/postalserver/postal",
+      "expected_token": "postalserver/postal"
+    },
+    {
+      "name": "stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "expected_token": "stalwartlabs/stalwart"
+    },
+    {
+      "name": "docker-mailserver",
+      "url": "https://github.com/docker-mailserver/docker-mailserver",
+      "expected_token": "docker-mailserver/docker-mailserver"
+    },
+    {
+      "name": "RSSHub",
+      "url": "https://github.com/DIYgod/RSSHub",
+      "expected_token": "DIYgod/RSSHub"
+    },
+    {
+      "name": "MJML",
+      "url": "https://github.com/mjmlio/mjml",
+      "expected_token": "mjmlio/mjml"
+    },
+    {
+      "name": "mautic",
+      "url": "https://github.com/mautic/mautic",
+      "expected_token": "mautic/mautic"
+    }
   ]
 }
