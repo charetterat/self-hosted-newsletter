@@ -1,4 +1,4 @@
-# Awesome Self-Hosted Newsletter (updated 2026-10-25)
+# Awesome Self-Hosted Newsletter (updated 2026-10-27)
 
 > Curated, link-verified tools for running your own newsletter, mailing list and sending stack.
 
@@ -86,7 +86,7 @@ What a list turns into once you want segmentation, journeys and a record of who 
 
 - **30** entries across **5** sections.
 - Compiled from public sources; every linked project carries its own license.
-- Last updated: **2026-10-17**.
+- Last updated: **2026-10-27**.
 - Data lives in `data/content.json` — this README is generated, do not edit by hand.
 
 ## License
